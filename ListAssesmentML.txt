@@ -1,0 +1,26 @@
+1. Using SVM, perform classification on Iris Datset.
+2. Using stochastic gradient descent in neural networks,
+predict the values of house prices using Boston dataset.
+3. Based on multiple features/variables perform Linear Regression.
+For example, based on a number of additional features like number of bedrooms,
+servant room, number of balconies, number of houses of years a house has been
+built – predict the price of a house. You may use the Boston dataset or any
+other dataset of your choice.
+4. Implement a classification/ logistic regression problem for checking
+whether an email is spam or not.
+5. Write a python program to implement linear regression and logistic regression
+using gradient descent algorithm. Remember the different cost functions.
+6. Perform linear regression on any dataset (say Boston house prices).
+Apply Ridge regularization on the same and compare the performance before and
+after applying L2 regularization.
+7. Perform logistic regression for classification on iris dataset. Apply ridge
+regularization and compare the performance before and after regularization.
+8. Perform linear regression on any dataset (say Boston house prices). Apply Lasso
+regularization on the same and compare the performance before and after applying
+L1 regularization. Also compare the results with Ridge regularization performed
+earlier.
+9. Create neural networks for: AND, OR, NAND, NOR and NOT boolean functions.
+10. Using backpropagation algorithm in neural networks, predict the values of house
+prices using Boston dataset.
+11. Compare performance of some classification algorithms like logistic regression
+and neural networks on Iris dataset and Seeds dataset (available on UCI).
